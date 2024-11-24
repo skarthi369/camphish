@@ -20,7 +20,7 @@ This tool require PHP for webserver, SSH or serveo link. First run following com
 
 apt-get -y install php openssh git wget
 Installing (Kali Linux/Termux):
-git clone https://github.com/techchipnet/CamPhish
+https://github.com/skarthi369/camphish.git
 cd CamPhish
 bash camphish.sh
 Change Log:
